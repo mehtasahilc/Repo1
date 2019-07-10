@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70E2-C161
+
+ Directory of C:\Users\SGL\Desktop\Gitproject
+
+09-07-2019  16:02    <DIR>          .
+09-07-2019  16:02    <DIR>          ..
+09-07-2019  16:02                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  137,164,779,520 bytes free
+
+
+
+changes made 
